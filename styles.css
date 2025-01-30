@@ -8,3 +8,6 @@ table {
     font-size: 30px;
     /* betűméret */
   }
+td {
+  background-color: brown;
+}
